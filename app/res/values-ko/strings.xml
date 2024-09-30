@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">악마의 조수</string>
+    <string name="hello">안녕하세요</string>
+    <string name="speak_button">말하기</string>
+    <string name="welcome_message">환영합니다, 나의 주인님!</string>
+    <string name="error_message">이 명령을 이해하지 못했습니다.</string>
+</resources>
