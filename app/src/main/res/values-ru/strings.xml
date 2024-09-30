@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дьявольский</string>
+    <string name="hello">Привет! Как вы?</string>
+    <string name="speak_button">Говорящий</string>
+    <string name="welcome_message">Добро пожаловать, мой хозяин!</string>
+    <string name="error_message">Я не понял эту команду.</string>
+    <!-- Add more strings as needed -->
+</resources>
