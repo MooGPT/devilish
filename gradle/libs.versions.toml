@@ -1,0 +1,14 @@
+[versions]
+kotlin = "1.4.32"
+appcompat = "1.2.0"
+constraintLayout = "2.0.4"
+material = "1.2.1"
+
+[libraries]
+kotlinStdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib-jdk7", version.ref = "kotlin" }
+appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
+constraintLayout = { module = "androidx.constraintlayout:constraintlayout", version.ref = "constraintLayout" }
+materialComponents = { module = "com.google.android.material:material", version.ref = "material" }
+
+[bundles]
+androidx = ["kotlinStdlib", "appcompat", "constraintLayout", "materialComponents"]
