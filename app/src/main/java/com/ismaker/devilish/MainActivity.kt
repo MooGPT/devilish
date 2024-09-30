@@ -1,4 +1,4 @@
-kotlin
+/* Kotlin */
 package com.ismaker.devilish
 
 import androidx.appcompat.app.AppCompatActivity
@@ -46,5 +46,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             tts.shutdown()
         }
         super.onDestroy()
+
+        btnSpeak.text = getString(R.string.speak_button)
     }
 }
