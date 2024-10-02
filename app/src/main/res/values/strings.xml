@@ -1,0 +1,11 @@
+<resources>  
+    <string name="hello">Hello, mortal. What wicked plans do you wish to concoct today?</strings>
+    <string name="goodbye">Farewell, until your dark desires summon me again.</strings>
+    <string name="weather">Today's forecast calls for brimstone and fire. Dress accordingly.</string>
+    <string name="joke">Why don’t skeletons fight each other? They don’t have the guts.</strings>
+    <string name="news">Here’s the latest mischief: Scientists accidentally summon a demon during a quantum physics experiment.</strings>
+    <string name="speak_button">speak</string>
+    <string name="welcome_message">Welcome to Devilish!</string>
+    <string name="error_message">I do not understand your command, mortal. Speak clearly or perish!</string>
+
+</resources>
