@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Дьявольский</string>
-    <string name="hello">Привет! Как вы?</string>
+    <string name="hello">Привет</string>
+    <string name="goodbye">Прощание</string>
+    <string name="weather">Сегодня погода на высоте и платье</string>
+    <string name="joke">Зачем шутить, но говорить мне что это плохо как быть</string>
+    <string name="news">Демон скелет рука смерть конечно хорошо</string>
     <string name="speak_button">Говорящий</string>
     <string name="welcome_message">Добро пожаловать, мой хозяин!</string>
     <string name="error_message">Я не понял эту команду.</string>
