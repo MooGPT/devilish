@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">악마의 조수</string>
-    <string name="hello">안녕하세요</string>
+    <string name="hello">안녕하세요!</string>
+    <string name="goodbye">안녕히 가세요!</string>
+    <string name="weather">오늘은 날씨가 고도가 높아 옷을 입는다.</string>
+    <string name="joke">왜 농담이지만 이것이 나쁜 방법이라고 말해주세요.</string>
+    <string name="news">악마 해골 손 죽음 물론 좋은.</string>
     <string name="speak_button">말하기</string>
     <string name="welcome_message">환영합니다, 나의 주인님!</string>
     <string name="error_message">이 명령을 이해하지 못했습니다.</string>
