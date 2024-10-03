@@ -1,0 +1,50 @@
+name: Code tests & eval
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test-git:
+    name: Test Git flavor
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up JDK 17
+        uses: actions/setup-java@v2
+        with:
+          java-version: '17'
+          distribution: 'adopt'
+          cache: gradle
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Build Git variant
+        run: ./gradlew assembleGitDebug
+      - name: Test Git variant
+        run: ./gradlew testGitDebugUnitTest
+
+  test-gitver:
+    name: Test Git version flavor
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up JDK 17
+        uses: actions/setup-java@v2
+        with:
+          java-version: '17'
+          distribution: 'adopt'
+          cache: gradle
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Build Git version variant
+        run: ./gradlew assembleGitverDebug
+      - name: Test Git version variant
+        run: ./gradlew testGitverDebugUnitTest
