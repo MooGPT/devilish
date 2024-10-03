@@ -1,5 +1,5 @@
 [versions]
-kotlin = "1.4.32"
+kotlin = "2.0.20"
 appcompat = "1.2.0"
 constraintLayout = "2.0.4"
 material = "1.12.0"
