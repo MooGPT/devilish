@@ -1,4 +1,4 @@
-As an AI, I don't have access to specific documents or external content such as the Privacy Policy of the MooGPT app. However, I can provide some general guidance on what a typical privacy policy might include, especially for apps like MooGPT, which likely involve data processing and machine learning:
+The Privacy Policy of the MooGPT app. I can provide some general guidance on what a typical privacy policy might include, especially for apps like MooGPT, which likely involve data processing and machine learning:
 
 1. **Developer Name**: MooGPT Inc.
 
