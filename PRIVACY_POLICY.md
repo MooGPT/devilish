@@ -20,4 +20,10 @@ As an AI, I don't have access to specific documents or external content such as 
 
 10. **Contact Information**: How users can contact the app regarding privacy concerns or questions.
 
+11. **Disclaimer of Warranty**: There is no warranty for the program, to the extent permitted by
+applicable law.
+
+12. **Limitation of Liability**: Party has been advised of the possibility of
+such damages.
+
 For the specific details of the MooGPT app’s privacy policy, you should visit the official app or website where the policy should be published, or contact the app developers directly.
