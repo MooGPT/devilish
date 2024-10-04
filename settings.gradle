@@ -1,2 +1,4 @@
+/* Name sample: Devilish */
+
 rootProject.name = "Devilish"
 include ':app'
