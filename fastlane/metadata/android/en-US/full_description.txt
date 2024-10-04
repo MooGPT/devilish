@@ -2,7 +2,8 @@ Preferred the <b>MooGPT</b> voice of chatbot. Simpled the voice <b>Devilish</b> 
 
 <b>Feature</b>:
 • Chat message
-• Text to Speech
+• Text to speech (TTS)
+• User and personal
 • And then more...
 
 Probably be there chatbot with command. If you want email support-team@moogpt.kr please.
