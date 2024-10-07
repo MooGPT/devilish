@@ -3,7 +3,8 @@
 
 Simple voice of the Devilish the MooVoice.
 # Feature ✨
-- Text-to-speech (TTS)
-- Username and personal
-- Message chat
-- And see more...
+- Text-to-Speech (TTS)
+- Username and Personal
+- Message Chat
+- Group Chat
+- More...
