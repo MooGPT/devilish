@@ -1,4 +1,3 @@
-/* Kotlin */
 package com.ismaker.devilish
 
 import androidx.appcompat.app.AppCompatActivity
@@ -32,7 +31,7 @@ class MainActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
             command.contains("weather", true) -> speak("Today's forecast calls for brimstone and fire. Dress accordingly.")
             command.contains("joke", true) -> speak("Why don’t skeletons fight each other? They don’t have the guts.")
             command.contains("news", true) -> speak("Here’s the latest mischief: Scientists accidentally summon a demon during a quantum physics experiment.")
-            command.contains("stop", true) -> speak("Great, if you get bored, contact me.")
+            command.contains("stop", true) -> speak("I put it on pause.")
             else -> speak("I do not understand your command, mortal. Speak clearly or perish!")
         }
     }
