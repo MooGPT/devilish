@@ -1,4 +1,4 @@
-package com.ismaker.devilish
+package com.ismaker.devilish.user
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
