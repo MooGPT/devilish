@@ -1,5 +1,5 @@
 # Devilish ✓
-![GitHub contributors](https://img.shields.io/github/contributors/MooGPT/devilish) ![GitHub Release](https://img.shields.io/github/v/release/MooGPT/devilish) [![Validate Gradle Wrapper](https://github.com/MooGPT/devilish/actions/workflows/gradle-wrapper-validation.yml/badge.svg)](https://github.com/MooGPT/devilish/actions/workflows/gradle-wrapper-validation.yml)
+![GitHub contributors](https://img.shields.io/github/contributors/MooGPT/devilish) ![GitHub Release](https://img.shields.io/github/v/release/MooGPT/devilish) ![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/MooGPT/devilish/gradle-wrapper-validation.yml?style=flat)
 
 Simple voice of the Devilish the MooVoice.
 # Feature ✨
