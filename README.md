@@ -10,3 +10,5 @@ Simple voice of the Devilish the MooVoice.
 - More...
 # Download ⬇️
 ![GitHub Release](https://img.shields.io/github/v/release/MooGPT/devilish?logo=GitHub&label=GitHub&labelColor=%23262626&color=%233452EB)
+# Chart 📊
+Soon™
