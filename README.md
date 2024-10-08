@@ -1,3 +1,4 @@
+[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Voice%20your%20chatbot%20Devilish%20for%20the%20bot%20🔧&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 # Devilish 🤖
 ![License](https://img.shields.io/badge/license-MIT-green?logo=Apache) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/MooGPT/devilish/total?logo=GitHub) [![Validate Gradle Wrapper](https://github.com/MooGPT/devilish/actions/workflows/gradle-wrapper-validation.yml/badge.svg)](https://github.com/MooGPT/devilish/actions/workflows/gradle-wrapper-validation.yml)
 
