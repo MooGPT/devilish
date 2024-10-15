@@ -1,0 +1,11 @@
+<resources>  
+    <string name="hello">Hola, mortal. ¿Qué planes perversos deseas urdir hoy?</strings>
+    <string name="goodbye">Adiós, hasta que tus oscuros deseos me vuelvan a llamar.</strings>
+    <string name="weather">El pronóstico para hoy anuncia azufre y fuego. Vístase de acuerdo a ello.</string>
+    <string name="joke">¿Por qué los esqueletos no luchan entre sí? No tienen agallas.</strings>
+    <string name="news">Aquí está la última travesura: Los científicos invocan accidentalmente a un demonio durante un experimento de física cuántica.</strings>
+    <string name="speak_button">Hablar</string>
+    <string name="welcome_message">¡Bienvenido a Devilish!</string>
+    <string name="error_message">No entiendo tu orden, mortal. ¡Habla claro o morirás!</string>
+
+</resources>
