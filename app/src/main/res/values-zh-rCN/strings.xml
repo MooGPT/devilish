@@ -1,0 +1,11 @@
+<resources>  
+    <string name="hello">你好，凡人。今天你想实施什么邪恶计划？</strings>
+    <string name="goodbye">再见，直到你的黑暗欲望再次召唤我。</strings>
+    <string name="weather">今天的天气预报说会有硫磺和火焰。请穿着相应的衣服。</string>
+    <string name="joke">骷髅们为什么不互相打斗？他们没胆量。</strings>
+    <string name="news">以下是最新的恶作剧： 科学家在一次量子物理实验中意外召唤了一个恶魔。</strings>
+    <string name="speak_button">说话</string>
+    <string name="welcome_message">欢迎来到 Devilish！</string>
+    <string name="error_message">我不明白你的命令，凡人。说清楚，否则就死吧！</string>
+
+</resources>
