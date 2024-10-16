@@ -12,6 +12,7 @@ project_id": "your-project-id"
         "en": "en",  # English
         "ru": "ru"   # Russian
         "es": "es"   # Spanish
+        "ja": "ja"   # Japanese
       }
     }
   }
