@@ -13,6 +13,7 @@ project_id": "your-project-id"
         "ru": "ru"   # Russian
         "es": "es"   # Spanish
         "ja": "ja"   # Japanese
+        "zh": "zh"   # Chinese
       }
     }
   }
