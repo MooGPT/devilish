@@ -1,13 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Дьявольский</string>
-    <string name="hello">Привет</string>
-    <string name="goodbye">Прощание</string>
-    <string name="weather">Сегодня погода на высоте и платье</string>
-    <string name="joke">Зачем шутить, но говорить мне что это плохо как быть</string>
-    <string name="news">Демон скелет рука смерть конечно хорошо</string>
-    <string name="speak_button">Говорящий</string>
-    <string name="welcome_message">Добро пожаловать, мой хозяин!</string>
-    <string name="error_message">Я не понял эту команду.</string>
-    <!-- Add more strings as needed -->
+<resources>  
+    <string name="hello">Привет, смертный. Какие коварные планы ты хочешь сегодня придумать?</strings>
+    <string name="goodbye">Прощай, пока твои темные желания не позовут меня снова.</strings>
+    <string name="weather">Сегодняшний прогноз обещает серу и огонь. Одевайтесь соответственно.</string>
+    <string name="joke">Почему скелеты не дерутся друг с другом? У них нет смелости.</strings>
+    <string name="news">Вот последняя неприятность: Ученые случайно вызвали демона во время эксперимента по квантовой физике.</strings>
+    <string name="speak_button">Говорить</string>
+    <string name="welcome_message">Добро пожаловать в Devilish!</string>
+    <string name="error_message">Я не понимаю твоего приказа, смертный. Говори ясно или погибнешь!</string>
+
 </resources>
