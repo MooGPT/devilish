@@ -4,6 +4,7 @@
 * Licensed under the CC-BY, version 4.0 (the "License");
 * you may not use this file except in compliance with the License.
 * You may obtain a copy of the License at
+*
 *      https://creativecommons.org/licenses/by-sa/4.0/deed.ru
 * 
 * Unless required by applicable law or agreed to in writing, software
