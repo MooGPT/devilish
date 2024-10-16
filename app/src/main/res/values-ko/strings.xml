@@ -1,11 +1,11 @@
-<resources>
-    <string name="app_name">악마의 조수</string>
-    <string name="hello">안녕하세요!</string>
-    <string name="goodbye">안녕히 가세요!</string>
-    <string name="weather">오늘은 날씨가 고도가 높아 옷을 입는다.</string>
-    <string name="joke">왜 농담이지만 이것이 나쁜 방법이라고 말해주세요.</string>
-    <string name="news">악마 해골 손 죽음 물론 좋은.</string>
-    <string name="speak_button">말하기</string>
-    <string name="welcome_message">환영합니다, 나의 주인님!</string>
-    <string name="error_message">이 명령을 이해하지 못했습니다.</string>
+<resources>  
+    <string name="hello">안녕, 필멸자여. 오늘은 어떤 사악한 계획을 꾸며보고 싶은가?</strings>
+    <string name="goodbye">안녕, 네 어두운 욕망이 다시 나를 부를 때까지.</strings>
+    <string name="weather">오늘의 예보는 유황과 화재를 예상합니다. 그에 맞게 옷을 입으세요.</string>
+    <string name="joke">왜 해골끼리 싸우지 않는 거지? 용기가 없거든.</strings>
+    <string name="news">최근의 문제는 다음과 같습니다: 과학자들은 양자물리학 실험 중에 실수로 악마를 소환합니다.</strings>
+    <string name="speak_button">말하다</string>
+    <string name="welcome_message">Devilish에 오신 것을 환영합니다!</string>
+    <string name="error_message">나는 당신의 명령을 이해할 수 없습니다, 인간아. 명확하게 말하지 않으면 죽을 것이다!</string>
+
 </resources>
