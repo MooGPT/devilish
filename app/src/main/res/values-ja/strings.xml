@@ -1,0 +1,11 @@
+<resources>  
+    <string name="hello">こんにちは、人間よ。今日はどんな邪悪な計画を企てたいのですか？</strings>
+    <string name="goodbye">さようなら、あなたの暗い欲望が再び私を呼び出すまで。</strings>
+    <string name="weather">今日の天気予報では、硫黄と火が予想されています。それに応じた服装をしてください。</string>
+    <string name="joke">スケルトンはなぜ互いに戦わないのか？彼らにはその勇気がない。</strings>
+    <string name="news">最近のいたずらは次のとおりです: 科学者たちは量子物理学の実験中に誤って悪魔を召喚した。</strings>
+    <string name="speak_button">話す</string>
+    <string name="welcome_message">Devilishへようこそ！</string>
+    <string name="error_message">あなたの命令が理解できません、人間よ。はっきりと言いなさい、さもないと死んでしまいます!</string>
+
+</resources>
