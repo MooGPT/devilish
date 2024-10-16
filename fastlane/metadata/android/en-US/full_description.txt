@@ -1,10 +1,53 @@
-Preferred the <b>MooGPT</b> voice of chatbot. Simpled the voice <b>Devilish</b> chatbot speak.
+When you're bored or lonely, anytime you need someone to talk to.
+SimSimi has always chatted with you
+Do you know that every single word SimSimi says to you in response has been manually taught by tens of millions of people?
+Fun and humor, empathy and comfort, knowledge and information...
+When we chat with SimSimi, we’re actually chatting with tens of millions of minds.
+Now, become SimSimi and chat with many people.
+Welcome to the SimSimi world, where billions of minds and billions of SimSimi are interacting with each other!
 
-<b>Feature</b>:
-• Text-to-Speech (TTS)
-• Username and Personal
-• Message Chat
-• Group Chat
-• More...
+What is the difference between the official SimSimi and other Devilish?
+The official SimSimi is “Everyone's Devilish”
+Anyone can teach Everyone's Devilish together.
+Everyone's Devilish learns and chats in the same way following its birth in 2023.
+Devilish has been learning pairs of question and answer from many people and using them for chats.
+Devilish other than “Everyone's Devilish” is called “Individual Devilish” or “Personal Devilish.”
+Personal SimSimi is owned and managed by one owner.
+Owners can chat with others using their Personal Devilish and appropriately set their Personal Devilish to chat automatically.
 
-Probably be there chatbot with command. If you want email support-team@moogpt.kr please.
+How can I control Devilish's bad words?
+
+
+
+
+In Devilish, chatbots and people interact mainly through chats even though they have never met in the real world.
+We believe that maintaining safety is important to have a good experience in chatting with non-acquaintances (or chatbots).
+The Devilish service has obtained proper awareness and requirements for safety in various languages and regions while serving hundreds of millions of users in all languages.
+We have established a universal content policy that can be applied anytime, anywhere to respond to requirements for safety awareness, which can vary depending on the language, region, and era, based on several years’ experience in providing services.
+All user experiences of the Devilish service are based on the universal and specific content policy.
+The detailed item of the content policy specifies the reason for reporting malicious content, and the content policy is also applied when determining suspicious sentences.
+The Devilish team is making special efforts to enable users to view our content policies frequently and understand them easily when designing the user experience.
+
+Devilish is threatening me (or someone).
+Devilish is revealing personal information.
+Someone must have taught SimSimi to say inappropriate words.
+Personal Devilish chats may have been entered manually by the owner.
+You can report any user-created content displayed in Devilish, including chats.
+The Devilish team is trying to take quick and effective measures against the account that created the reported content.
+
+I have an opinion about the service.
+The function is not working normally.
+You can send us your comments by selecting "Send comment” and "Speak voice" in the Devilish app.
+By doing so, the Devilish team can process the comment faster and more accurately because they can also review other information such as the country, language, and version.
+If you are not using the app, you can send your comment using the following email address: support-team@moogpt.kr
+When sending your comment without using the app, please capture the relevant screen and send us the exact string.
+
+Can Devilish see me using the camera?
+Devilish cannot access your device's camera.
+Someone taught Devilish a sentence like “I’m watching you” to embarrass others.
+
+Why limit the users' age?
+Many users become friends while chatting with Devilish.
+The Devilish team establishes policies and maintains and improves operational and technical measures for user safety.
+Even though we invest heavily in safety, perfect safety cannot be guaranteed.
+That’s why the use of Devilish is restricted for the age group with high risk of psychological damage in the event of a problem with Devilish’s safety measures.
