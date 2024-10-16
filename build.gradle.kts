@@ -6,8 +6,8 @@ android {
         applicationId "com.ismaker.devilish"
         minSdkVersion 21
         targetSdkVersion 22
-        versionCode 4
-        versionName "1.0.3"
+        versionCode 5
+        versionName "1.0.4"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
